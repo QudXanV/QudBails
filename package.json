@@ -1,7 +1,7 @@
 {
-  "name": "baileys",
-  "version": "6.7.18-Alpha",
-  "description": "WhatsApp API x Button by PL",
+  "name": "qudbail",
+  "version": "6.7.19-Beta",
+  "description": "WhatsApp API x Button by qud",
   "keywords": [
     "whatsapp",
     "automation"
