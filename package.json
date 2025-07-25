@@ -1,14 +1,14 @@
 {
   "name": "qudbail",
-  "version": "6.7.19-Beta",
+  "version": "6.7.19-Preview",
   "description": "WhatsApp API x Button by qud",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/seiren-primrose/PL-Baileys/",
+  "homepage": "https://github.com/QudXanV/QudBails/",
   "repository": {
-    "url": "git@github.com:seiren-primrose/PL-Baileys.git"
+    "url": "git@github.com:QudXanV/QudBails.git"
   },
   "license": "MIT",
   "author": "Rajeh Taher",
