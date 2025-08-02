@@ -1,6 +1,6 @@
 {
   "name": "qudbail",
-  "version": "6.7.19-Alpha",
+  "version": "6.7.23",
   "description": "WhatsApp API x Button by qud",
   "keywords": [
     "whatsapp",
@@ -11,7 +11,7 @@
     "url": "git@github.com:QudXanV/QudBails.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "Qud XanVerius",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
